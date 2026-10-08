@@ -28,6 +28,6 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-IN THE ICE-WORLD OF HIMALAYA [archive.org](https://archive.org/details/peaksandglacier00workgoog/page/n14/mode/2up)
+GIPFEL UND GLETSCHER DES NUN KUN [archive.org](https://archive.org/details/peaksandglacier00workgoog/page/n14/mode/2up)
 
 
