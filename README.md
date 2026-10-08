@@ -1,6 +1,6 @@
 # Gipfel und Gletscher des Nun Kun
 
-<img align="right" height="200" src="https://github.com/kogo59/In_der_Eiswelt_des_Himalaya/blob/main/images/cover.jpg">
+<img align="right" height="200" src="https://github.com/kogo59/Gipfel_und_Gletscher_des_Nun_Kun/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the translation to german of the book "PEAKS AND GLACIERS OF NUN KUN".
 
