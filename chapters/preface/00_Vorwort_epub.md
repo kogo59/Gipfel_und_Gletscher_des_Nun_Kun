@@ -8,10 +8,10 @@
 - [Auf dem Marsch, Sind-Tal.](ch003.xhtml#b010) — gegenüber Seite 10
 - [Grundbesitzerin (*Zamindar*) von Ladakh.](ch003.xhtml#b014)  — gegenüber Seite 14
 - [Erster Blick auf Nun Kun vom Suru-Tal aus.](ch003.xhtml#b016) — gegenüber Seite 16
-- **Waschtag im Lager am Suru** — gegenüber Seite 20
-- **Der höchste Nun Kun und die Gipfel, welche die Südwand des Rangdum-Tales bilden** — gegenüber Seite 24
-- **Mate- und Suru-Kulis im Basislager** — gegenüber Seite 26
-- **Lama-Lambardar und Frauen von Tazi Tonzas** — gegenüber Seite 32
+- [Waschtag im Lager bei Suru.](ch004.xhtml#b020)  — gegenüber Seite 20
+- [Der höchste Gipfel des Nun Kun und die Gipfel, welche die Südwand des Rangdum-Tales bilden.](ch004.xhtml#b024) — gegenüber Seite 24
+- [Mate- und Suru-Kulis im Basislager.](ch004.xhtml#b026) — gegenüber Seite 26
+- [Lama-Lambardar und Frauen von Tazi Tonzas.](ch004.xhtml#b032) — gegenüber Seite 32
 - **Durchquerung des Suru-Flusses mit Ziegen und Schafen** — gegenüber Seite 36
 - **Shafat-Nala und die unteren drei Meilen des Shafat-Gletschers** — gegenüber Seite 42
 - **Hoher, moränenbedeckter Hügel, durch Druck an der Vereinigung des westlichen Seitenarmes mit dem Shafat-Gletscher gebildet** — gegenüber Seite 44
