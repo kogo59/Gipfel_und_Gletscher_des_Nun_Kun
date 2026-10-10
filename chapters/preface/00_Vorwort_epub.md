@@ -12,12 +12,10 @@
 - [Der höchste Gipfel des Nun Kun und die Gipfel, welche die Südwand des Rangdum-Tales bilden.](ch004.xhtml#b024) — gegenüber Seite 24
 - [Mate- und Suru-Kulis im Basislager.](ch004.xhtml#b026) — gegenüber Seite 26
 - [Lama-Lambardar und Frauen von Tazi Tonzas.](ch004.xhtml#b032) — gegenüber Seite 32
-- **Durchquerung des Suru-Flusses mit Ziegen und Schafen** — gegenüber Seite 36
-- **Shafat-Nala und die unteren drei Meilen des Shafat-Gletschers** — gegenüber Seite 42
-- **Hoher, moränenbedeckter Hügel, durch Druck an der Vereinigung des westlichen Seitenarmes mit dem Shafat-Gletscher gebildet** — gegenüber Seite 44
-
-
-- **Pinnacle Peak, 23.300 Fuß, vom westlichen Arme des Shafat-Gletschers aus; bestiegen von Mrs. F. Bullock Workman mit Führer und Träger am 29. Juli 1906** — gegenüber Seite 46
+- [Durchquerung des Suru-Flusses mit Ziegen und Schafen.](ch005.xhtml#b036) — gegenüber Seite 36
+- [Shafat-Nala und die unteren drei Meilen des Shafat-Gletschers.](ch005.xhtml#b042) — gegenüber Seite 42
+- [Hoher, moränenbedeckter Hügel, durch Druck an der Vereinigung des westlichen Seitenarmes mit dem Shafat-Gletscher gebildet.](ch005.xhtml#b044)  — gegenüber Seite 44
+- [Pinnacle Peak, 23.300 Fuß, vom westlichen Arme des Shafat-Gletschers aus; bestiegen von Mrs. F. Bullock Workman mit Führer und Träger am 29. Juli 1906.](ch005.xhtml#b046) — gegenüber Seite 46
 - **Basislager, Shafat-Gletscher, 15.100 Fuß Höhe** — gegenüber Seite 48
 - **Inneres eines Zeltes im Basislager, 15.100 Fuß Höhe** — gegenüber Seite 50
 - **Gipfel Z1. Der vorspringende Grat trennt links den Shafat-Gletscher vom Fariabad-Gletscher rechts** — gegenüber Seite 52
