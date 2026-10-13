@@ -16,26 +16,24 @@
 - [Shafat-Nala und die unteren drei Meilen des Shafat-Gletschers.](ch005.xhtml#b042) — gegenüber Seite 42
 - [Hoher, moränenbedeckter Hügel, durch Druck an der Vereinigung des westlichen Seitenarmes mit dem Shafat-Gletscher gebildet.](ch005.xhtml#b044)  — gegenüber Seite 44
 - [Pinnacle Peak, 23.300 Fuß, vom westlichen Arme des Shafat-Gletschers aus; bestiegen von Mrs. F. Bullock Workman mit Führer und Träger am 29. Juli 1906.](ch005.xhtml#b046) — gegenüber Seite 46
-- **Basislager, Shafat-Gletscher, 15.100 Fuß Höhe** — gegenüber Seite 48
-- **Inneres eines Zeltes im Basislager, 15.100 Fuß Höhe** — gegenüber Seite 50
-- **Gipfel Z1. Der vorspringende Grat trennt links den Shafat-Gletscher vom Fariabad-Gletscher rechts** — gegenüber Seite 52
-- **Gipfel und Eisbruch des Shafat-Gletschers** — gegenüber Seite 54
-- **Eisbruch am oberen Arme des Shafat-Gletschers, von den Verfassern erstiegen** — gegenüber Seite 54
-- **Erklettern eines Séracs am Eisbruch** — gegenüber Seite 56
-- **Firn-Penitente auf dem Shafat-Gletscher** — gegenüber Seite 56
-- **Panorama des Shafat-Gletschers – das Reservoir vom Berge oberhalb des Basislagers; Nun Kun rechts, ein Teil von Z1 links** — gegenüber Seite 58
-- **Hinauf über die schneebedeckte Bergflanke** — gegenüber Seite 60
-- **Lager Firn-Penitente, 17.657 Fuß; Z1 im Hintergrunde** — gegenüber Seite 60
-- **Erster Blick auf das White-Needle-Lager in 19.900 Fuß Höhe beim Ersteigen der Schneewand** — gegenüber Seite 62
-- **The White Needle, 21.800 Fuß, über dem White-Needle-Lager aufragend** — gegenüber Seite 62
-
-
-- **White-Needle-Lager, 19.900 Fuß, Blick nach Osten; Felsgipfel im Hintergrunde, 1½ Meilen entfernt** — gegenüber Seite 64
-- **White-Needle-Lager am Fuße der Eiswand, Blick nach Westen** — gegenüber Seite 64
-- **Camp Italia, 20.632 Fuß, auf dem Nun-Kun-Plateau; Pinnacle Peak links im Hintergrunde** — gegenüber Seite 66
-- **Camp Italia, 20.632 Fuß, Blick nach Südosten** — gegenüber Seite 68
-- **Ein Hang, der beim Aufstieg zum höchsten Nun-Kun-Gipfel vom Plateau aus hätte überwunden werden müssen** — gegenüber Seite 68
-- **Der höchste Nun-Kun-Gipfel, oder Ser, 23.447 Fuß, vom Mittelpunkte des Plateaus aus** — gegenüber Seite 70
+- [Basislager, Shafat-Gletscher, 15.100 Fuß Höhe.](ch006.xhtml#b048) — gegenüber Seite 48
+- [Inneres eines Zeltes im Basislager, 15.100 Fuß Höhe.](ch006.xhtml#b050) — gegenüber Seite 50
+- [Gipfel Z1. Der vorspringende Grat trennt links den Shafat-Gletscher vom Fariabad-Gletscher rechts.](ch006.xhtml#b052) — gegenüber Seite 52
+- [Gipfel und Eisbruch des Shafat-Gletschers.](ch006.xhtml#b054) — gegenüber Seite 54
+- [Eisbruch am oberen Arme des Shafat-Gletschers, von den Verfassern erstiegen.](ch006.xhtml#b054a) — gegenüber Seite 54
+- [Erklettern eines Séracs am Eisbruch.](ch006.xhtml#b056) — gegenüber Seite 56
+- [Büßerschnee auf dem Shafat-Gletscher](ch006.xhtml#b056a) — gegenüber Seite 56
+- [Panorama des Shafat-Gletschers – das Reservoir vom Berge oberhalb des Basislagers; Nun Kun rechts, ein Teil von Z1 links.](ch006.xhtml#b058) — gegenüber Seite 58
+- [Hinauf über die schneebedeckte Bergflanke.](ch006.xhtml#b060) — gegenüber Seite 60
+- [Lager Nieve-Penitente, 17.657 Fuß; Z1 im Hintergrunde.](ch006.xhtml#b060a) — gegenüber Seite 60
+- [Erster Blick auf das White-Needle-Lager in 19.900 Fuß Höhe beim Ersteigen der Schneewand.](ch006.xhtml#b062) — gegenüber Seite 62
+- [The White Needle, 21.800 Fuß, über dem White-Needle-Lager aufragend](ch006.xhtml#b062a) — gegenüber Seite 62
+- [White-Needle-Lager, 19.900 Fuß, Blick nach Osten; Felsgipfel im Hintergrunde, 1½ Meilen entfernt](ch006.xhtml#b064)  — gegenüber Seite 64
+- [White-Needle-Lager am Fuße der Eiswand, Blick nach Westen](ch006.xhtml#b064a)  — gegenüber Seite 64
+- [Camp Italia, 20.632 Fuß, auf dem Nun-Kun-Plateau; Pinnacle Peak links im Hintergrunde.](ch006.xhtml#b66) — gegenüber Seite 66
+- [Camp Italia, 20.632 Fuß, Blick nach Südosten.](ch006.xhtml#b68) — gegenüber Seite 68
+- [Ein Hang, der beim Aufstieg zum höchsten Nun-Kun-Gipfel vom Plateau aus hätte überwunden werden müssen.](ch006.xhtml#b68a) — gegenüber Seite 68
+- [Der höchste Nun-Kun-Gipfel, oder Ser, 23.447 Fuß, vom Mittelpunkte des Plateaus aus.](ch006.xhtml#b70)  — gegenüber Seite 70
 - **Aufstieg über einen steilen Hang** — gegenüber Seite 72
 - **Camp America, 21.300 Fuß, am oberen Ende des Nun-Kun-Plateaus und am Fuße des Pinnacle Peak** — gegenüber Seite 74
 - **Am Fuße einer zerbrochenen Eiswand. Firnschichtung** — gegenüber Seite 82
