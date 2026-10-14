@@ -32,18 +32,16 @@
 - [White-Needle-Lager am Fuße der Eiswand, Blick nach Westen](ch006.xhtml#b064a)  — gegenüber Seite 64
 - [Camp Italia, 20.632 Fuß, auf dem Nun-Kun-Plateau; Pinnacle Peak links im Hintergrunde.](ch006.xhtml#b66) — gegenüber Seite 66
 - [Camp Italia, 20.632 Fuß, Blick nach Südosten.](ch006.xhtml#b68) — gegenüber Seite 68
-- [Ein Hang, der beim Aufstieg zum höchsten Nun-Kun-Gipfel vom Plateau aus hätte überwunden werden müssen.](ch006.xhtml#b68a) — gegenüber Seite 68
-- [Der höchste Nun-Kun-Gipfel, oder Ser, 23.447 Fuß, vom Mittelpunkte des Plateaus aus.](ch006.xhtml#b70)  — gegenüber Seite 70
-- **Aufstieg über einen steilen Hang** — gegenüber Seite 72
-- **Camp America, 21.300 Fuß, am oberen Ende des Nun-Kun-Plateaus und am Fuße des Pinnacle Peak** — gegenüber Seite 74
-- **Am Fuße einer zerbrochenen Eiswand. Firnschichtung** — gegenüber Seite 82
-- **Ein Hang des Pinnacle Peak, der die beim Aufstieg angetroffene Steigung zeigt** — gegenüber Seite 82
-- **Peak Mer, 23.264 Fuß, aus 22.720 Fuß Höhe am Pinnacle Peak gesehen** — gegenüber Seite 84
-- **Blick vom Gipfel des Pinnacle Peak über die Zaskar-Ketten** — gegenüber Seite 86
-- **Pinnacle Peak vom Basis-Eisbruchgletscher unterhalb Z1** — gegenüber Seite 88
-
-
-- **Frühstück unter freiem Himmel im Camp Italia, 20.632 Fuß** — gegenüber Seite 90
+- [Ein Hang, der beim Aufstieg zum höchsten Nun-Kun-Gipfel vom Plateau aus hätte überwunden werden müssen.](ch006.xhtml#b068a) — gegenüber Seite 68
+- [Der höchste Nun-Kun-Gipfel, oder Ser, 23.447 Fuß, vom Mittelpunkte des Plateaus aus.](ch006.xhtml#b070)  — gegenüber Seite 70
+- [Aufstieg über einen steilen Hang.](ch007.xhtml#b072) — gegenüber Seite 72
+- [Camp America, 21.300 Fuß, am oberen Ende des Nun-Kun-Plateaus und am Fuße des Pinnacle Peak.](ch007.xhtml#b074) — gegenüber Seite 74
+- [Am Fuße einer zerbrochenen Eiswand. Firnschichtung.](ch007.xhtml#b082) — gegenüber Seite 82
+- [Ein Hang des Pinnacle Peak, der die beim Aufstieg angetroffene Steigung zeigt.](ch007.xhtml#b082a) — gegenüber Seite 82
+- [Peak Mer, 23.264 Fuß, aus 22.720 Fuß Höhe am Pinnacle Peak gesehen.](ch007.xhtml#b084)  — gegenüber Seite 84
+- [Blick vom Gipfel des Pinnacle Peak über die Zaskar-Ketten.](ch007.xhtml#b086) — gegenüber Seite 86
+- [Pinnacle Peak vom Basis-Eisbruchgletscher unterhalb Z1.](ch007.xhtml#b088) — gegenüber Seite 88
+- [Frühstück unter freiem Himmel im Camp Italia, 20.632 Fuß.](ch007.xhtml#b090) — gegenüber Seite 90
 - **Die oberen drei Meilen des Shafat-Gletschers mit den drei südlichen Gipfeln des Nun-Kun-Massivs, vom Eisbruch unterhalb Z1 aus** — gegenüber Seite 94
 - **Eine Firn-Penitente-Zacke** — gegenüber Seite 96
 - **Nun, oder Ser, 23.447 Fuß, vom Gipfel des Mount Nieve Penitente** — gegenüber Seite 98
