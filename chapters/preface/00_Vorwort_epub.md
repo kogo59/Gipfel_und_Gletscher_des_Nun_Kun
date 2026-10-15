@@ -42,12 +42,12 @@
 - [Blick vom Gipfel des Pinnacle Peak über die Zaskar-Ketten.](ch007.xhtml#b086) — gegenüber Seite 86
 - [Pinnacle Peak vom Basis-Eisbruchgletscher unterhalb Z1.](ch007.xhtml#b088) — gegenüber Seite 88
 - [Frühstück unter freiem Himmel im Camp Italia, 20.632 Fuß.](ch007.xhtml#b090) — gegenüber Seite 90
-- **Die oberen drei Meilen des Shafat-Gletschers mit den drei südlichen Gipfeln des Nun-Kun-Massivs, vom Eisbruch unterhalb Z1 aus** — gegenüber Seite 94
-- **Eine Firn-Penitente-Zacke** — gegenüber Seite 96
-- **Nun, oder Ser, 23.447 Fuß, vom Gipfel des Mount Nieve Penitente** — gegenüber Seite 98
-- **Panorama der südwestlichen Hälfte des Nun-Kun-Plateaus mit drei Ausgängen** — gegenüber Seite 102
-- **Ende des Ganri-Gletschers in einem Eisabsturz am Ufer des Suru-Flusses** — gegenüber Seite 104
-- **Seitenmoräne des Ganri-Gletschers, an die Nordwand des Rangdum-Tales gedrängt** — gegenüber Seite 106
+- [Die oberen drei Meilen des Shafat-Gletschers mit den drei südlichen Gipfeln des Nun-Kun-Massivs, vom Eisbruch unterhalb Z1 aus.](ch008.xhtml#b094) — gegenüber Seite 94
+- [Eine Büßerschneespitze.](ch008.xhtml#b096) — gegenüber Seite 96
+- [Nun, oder Ser, 23.447 Fuß, vom Gipfel des Mount Nieve Penitente.](ch008.xhtml#b098) — gegenüber Seite 98
+- [Panorama der südwestlichen Hälfte des Nun-Kun-Plateaus mit drei Ausgängen.](ch008.xhtml#b102) — gegenüber Seite 102
+- [Ende des Ganri-Gletschers in einem Eisabsturz am Ufer des Suru-Flusse.](ch008.xhtml#b104) — gegenüber Seite 104
+- [Seitenmoräne des Ganri-Gletschers, an die Nordwand des Rangdum-Tales gedrängt.](ch008.xhtml#b106) — gegenüber Seite 106
 - **Spaltenreicher oberer Teil des Fariabad-Gletschers** — gegenüber Seite 108
 - **Nordwest-Nala, vom Sporn des Z1 aus** — gegenüber Seite 110
 - **Steinmann im Basislager** — gegenüber Seite 112

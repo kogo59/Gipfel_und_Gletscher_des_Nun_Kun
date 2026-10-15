@@ -1,8 +1,8 @@
 # Kapitel V
 
 :::: { .fs-xs .justified }
-Allein im Camp America, 21.300 Fuß – Besteigung des Pinnacle Peak, ein
-Höhenrekord für Frauen – Der Abstieg zum Basislager.<br /><br />
+Allein im Camp America, 21.300 Fuß — Besteigung des Pinnacle Peak, ein
+Höhenrekord für Frauen — Der Abstieg zum Basislager.<br /><br />
 ::::
 
 ::: justified

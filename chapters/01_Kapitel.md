@@ -7,7 +7,7 @@ Srinagar nach Suru — Beschreibung des Nun Kun.<br /><br />
 
 ::: justified
 
-DER April des Jahres 1906 fand die Verfasser zum fünften Male in Srinagar. Wir
+Der April des Jahres 1906 fand die Verfasser zum fünften Male in Srinagar. Wir
 beabsichtigten in dieser Saison nicht, uns so weit in die Ferne zu begeben wie
 zuvor; unser Ziel war vielmehr, einen lange gehegten Plan zur Erforschung der
 Nun-Kun-Berggruppe auszuführen, die etwa hundert Meilen östlich von Srinagar, in
