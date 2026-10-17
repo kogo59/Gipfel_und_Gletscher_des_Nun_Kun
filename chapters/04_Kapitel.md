@@ -35,7 +35,7 @@ denen sich unsere Kulis unverzüglich häuslich niederließen. In kurzer Zeit wa
 alles geordnet, und wir widmeten uns den Vorbereitungen für die weiteren
 Unternehmungen, die von hier aus begonnen werden sollten. Nun waren alle
 begierig auf die Arbeit im Schnee. Die neun kleinen Mummery-Zelte wurden
-ausgepackt und geprüft. Aus dem Holze, das aus dem Nala weiter unten
+ausgepackt und geprüft. Aus dem Holze, das aus dem Nala<sup>[^100]</sup> weiter unten
 heraufgebracht worden war, fertigten wir eine große Zahl langer Holzpflöcke, um
 die Zelte zu verankern. Die Eispickel wurden geprüft und poliert; dicke Kleidung
 kam an Stelle der bisher getragenen leichteren Stücke in unsere Kleidersäcke.

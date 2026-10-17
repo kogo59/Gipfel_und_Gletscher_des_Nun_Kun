@@ -66,7 +66,7 @@ interessantere Route überschreitet den Bergrücken über den Purkutse La; sie
 beansprucht nur etwa fünf Stunden und bietet einen eindrucksvollen Blick auf die
 Nordseite des Nun-Kun-Massivs.
 
-Wir beschlossen, uns dem Nun Kun durch den Shafat Nala auf seiner Ostseite zu
+Wir beschlossen, uns dem Nun Kun durch den Shafat Nala<sup>[^100]</sup> auf seiner Ostseite zu
 nähern. Da der Mate und die fünfundzwanzig Kulis, die mit uns aus Kargil
 gekommen waren, in Suru untätig lagen, während sie die Rückkehr unseres Agenten
 mit weiteren Leuten erwarteten, wurden Savoye und zwei Träger am 26. Juni mit

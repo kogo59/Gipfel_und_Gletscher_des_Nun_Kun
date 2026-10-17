@@ -267,7 +267,7 @@ Der dritte, der Fariabad-Gletscher, beginnt in den beiden südlichen Auslässen
 des oben erwähnten Beckens und wird zusätzlich durch die Schneemassen von den
 Außenseiten der beiden westlichen Gipfel gespeist. Er fällt in verworrener Masse
 aus Eisabbrüchen, Höhlen, Spalten und Séracs rasch nach Süden ab, unmittelbar
-zur Seite des Z1-Gletschers oberhalb der Öffnung des Fariabad-Nala. Im Osten
+zur Seite des Z1-Gletschers oberhalb der Öffnung des Fariabad-Nala<sup>[^100]</sup>. Im Osten
 wird er durch den bereits erwähnten Kamm vom Shafat-Gletscher getrennt, im
 Westen durch einen großen Sporn des höchsten Nun Kun begrenzt, der zur
 Fariabad-Öffnung hinabzieht. Seine Länge beträgt vier, seine Breite zwei Meilen.

@@ -2,7 +2,7 @@
 
 :::: { .fs-xs .justified }
 Gefährliche Durchquerung des Suru-Flusses — Abrechnung mit dem Lambardar —
-Gegenmarsch durch das Rangdum-Tal — Im Shafat Nala — Der Shafat-Gletscher —
+Gegenmarsch durch das Rangdum-Tal — Im Shafat Nala<sup>[^100]</sup> — Der Shafat-Gletscher —
 Desertion der letzten Kargil-Kulis.<br /><br />
 ::::
 

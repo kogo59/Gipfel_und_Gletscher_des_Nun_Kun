@@ -48,23 +48,21 @@
 - [Panorama der südwestlichen Hälfte des Nun-Kun-Plateaus mit drei Ausgängen.](ch008.xhtml#b102) — gegenüber Seite 102
 - [Ende des Ganri-Gletschers in einem Eisabsturz am Ufer des Suru-Flusse.](ch008.xhtml#b104) — gegenüber Seite 104
 - [Seitenmoräne des Ganri-Gletschers, an die Nordwand des Rangdum-Tales gedrängt.](ch008.xhtml#b106) — gegenüber Seite 106
-- **Spaltenreicher oberer Teil des Fariabad-Gletschers** — gegenüber Seite 108
-- **Nordwest-Nala, vom Sporn des Z1 aus** — gegenüber Seite 110
-- **Steinmann im Basislager** — gegenüber Seite 112
-- **Blick vom Fariabad-Gletscher in 18.000 Fuß Höhe auf die Zaskar-Berge** — gegenüber Seite 114
-- **Eiswand, welche die Zunge des Fariabad-Gletschers an der Seite des Z1-Gletschers bildet** — gegenüber Seite 116
-- **Zunge des Z1-Gletschers** — gegenüber Seite 118
-- **Blick nach Osten den Nordwest-Nala hinab, vom Gletscher nahe seinem oberen Ende** — gegenüber Seite 120
-- **Auf dem Nordwest-Sattel, 17.397 Fuß; Mount Nieve Penitente links** — gegenüber Seite 122
-
-
-- **Barmal La, Barmal-Kamm, südlicher Teil des Reservoirs des Barmal-Gletschers** — gegenüber Seite 124
-- **Barmal-Lager auf dem Barmal La, 17.260 Fuß; Nordwest-Sattel dahinter** — gegenüber Seite 126
-- **Barmal-Gletscher von nahe dem Gipfel des Mount Nieve Penitente aus** — gegenüber Seite 128
-- **Mount Nieve Penitente, 19.080 Fuß, und Barmal La von nahe Sentik La aus, zwei Meilen tiefer** — gegenüber Seite 130
-- **Steile Eiswand, am Mount Nieve Penitente erstiegen** — gegenüber Seite 134
-- **Auf dem Gipfel des Mount Nieve Penitente, 19.080 Fuß; D41 zwei Meilen dahinter** — gegenüber Seite 136
-- **Vogelperspektive auf den Nordwest-Nala vom Gipfel des Mount Nieve Penitente** — gegenüber Seite 136
+- [Spaltenreicher oberer Teil des Fariabad-Gletschers.](ch009.xhtml#b108) — gegenüber Seite 108
+- [Nordwest-Nala, vom Sporn des Z1 aus.](ch009.xhtml#b110) — gegenüber Seite 110
+- [Steinmann im Basislager.](ch009.xhtml#b112) — gegenüber Seite 112
+- [Blick vom Fariabad-Gletscher in 18.000 Fuß Höhe auf die Zaskar-Berge.](ch009.xhtml#b114) — gegenüber Seite 114
+- [Eiswand, welche die Zunge des Fariabad-Gletschers an der Seite des Z1-Gletschers bildet.](ch009.xhtml#b116) — gegenüber Seite 116
+- [Zunge des Z1-Gletschers.](ch009.xhtml#b118) — gegenüber Seite 118
+- [Blick nach Osten den Nordwest-Nala hinab, vom Gletscher nahe seinem oberen Ende.](ch009.xhtml#b120) — gegenüber Seite 120
+- [Auf dem Nordwest-Sattel, 17.397 Fuß; Mount Nieve Penitente links.](ch009.xhtml#b122) — gegenüber Seite 122
+- [Barmal La, Barmal-Kamm, südlicher Teil des Reservoirs des Barmal-Gletschers.](ch009.xhtml#b124) — gegenüber Seite 124
+- [Barmal-Lager auf dem Barmal La, 17.260 Fuß; Nordwest-Sattel dahinter](ch009.xhtml#b126)  — gegenüber Seite 126
+- [Barmal-Gletscher von nahe dem Gipfel des Mount Nieve Penitente aus.](ch009.xhtml#b128) — gegenüber Seite 128
+- [Mount Nieve Penitente, 19.080 Fuß, und Barmal La von nahe Sentik La aus, zwei Meilen tiefer.](ch009.xhtml#b130) — gegenüber Seite 130
+- [Steile Eiswand, am Mount Nieve Penitente erstiegen.](ch009.xhtml#b134) — gegenüber Seite 134
+- [Auf dem Gipfel des Mount Nieve Penitente, 19.080 Fuß; D41 zwei Meilen dahinter](ch009.xhtml#b136) — gegenüber Seite 136
+- [Vogelperspektive auf den Nordwest-Nala vom Gipfel des Mount Nieve Penitente](ch009.xhtml#b136a) — gegenüber Seite 136
 - **Panorama vom Gipfel des Mount Nieve Penitente: Z1, Nun oder Ser, Barmal-Kamm, D41** — gegenüber Seite 138
 - **D41 vom Barmal La aus** — gegenüber Seite 140
 - **Auf dem Gipfel des D41, 20.571 Fuß** — gegenüber Seite 142

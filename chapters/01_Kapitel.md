@@ -325,7 +325,7 @@ versuchte Major Lucas mit Gurkhas, einige der rauhen unteren Hänge am
 Ganri-Gletscher zu ersteigen, kam jedoch nicht weit. Kurz darauf bahnte Major
 the Hon. C. G. Bruce sich über die Höhen westlich des Nun Kun einen Weg zum
 Bhot-Kol-Gletscher, unternahm jedoch keinen Versuch am Nun Kun selbst.
-Sportsleute waren gelegentlich in den Shafat-Nala, den leichtesten Zugang,
+Sportsleute waren gelegentlich in den Shafat-Nala<sup>[^100]</sup>, den leichtesten Zugang,
 eingedrungen; einer von ihnen hatte 1905 einige Tage am Ort unseres späteren
 Basislagers verbracht, etwa fünf Meilen oberhalb der Zunge des
 Shafat-Gletschers. Im Jahre 1902 statteten Rev. C. E. Barton und Dr. A. Neve ihm
@@ -336,3 +336,5 @@ inzwischen verstorbene Mr. Sillem, ein niederländischer Bergsteiger, ihren
 Spuren und erreichte vielleicht einen etwas höheren Punkt auf dem Gletscher.
 
 :::
+
+[^100]: [Ein Nala (auch Nullah, Nallah) ist im südasiatischen Sprachgebrauch ein Bachlauf, Gebirgsbach oder ein Tal mit Wasserlauf. Im Himalaya wird damit oft nicht nur der Bach selbst, sondern das gesamte von ihm durchzogene Seitental bzw. die Schlucht bezeichnet.]{.footnote }
