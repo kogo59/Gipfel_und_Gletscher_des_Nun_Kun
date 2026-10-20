@@ -61,20 +61,18 @@
 - [Barmal-Gletscher von nahe dem Gipfel des Mount Nieve Penitente aus.](ch009.xhtml#b128) — gegenüber Seite 128
 - [Mount Nieve Penitente, 19.080 Fuß, und Barmal La von nahe Sentik La aus, zwei Meilen tiefer.](ch009.xhtml#b130) — gegenüber Seite 130
 - [Steile Eiswand, am Mount Nieve Penitente erstiegen.](ch009.xhtml#b134) — gegenüber Seite 134
-- [Auf dem Gipfel des Mount Nieve Penitente, 19.080 Fuß; D41 zwei Meilen dahinter](ch009.xhtml#b136) — gegenüber Seite 136
-- [Vogelperspektive auf den Nordwest-Nala vom Gipfel des Mount Nieve Penitente](ch009.xhtml#b136a) — gegenüber Seite 136
-- **Panorama vom Gipfel des Mount Nieve Penitente: Z1, Nun oder Ser, Barmal-Kamm, D41** — gegenüber Seite 138
-- **D41 vom Barmal La aus** — gegenüber Seite 140
-- **Auf dem Gipfel des D41, 20.571 Fuß** — gegenüber Seite 142
-- **Blick den Barmal-Gletscher hinab aus 19.500 Fuß Höhe am D41** — gegenüber Seite 144
-- **Panorama nach Osten vom Gipfel des D41. Der Nun Kun** — gegenüber Seite 146
-- **Blick nach Süden von der Schulter des B10 auf den Bhot-Kol-Seitenarm und seine Südwand** — gegenüber Seite 148
-- **Abstieg vom Barmal La zum Barmal-Gletscher** — gegenüber Seite 150
-
-
-- **Sentik La vom Sentik-Gletscher aus** — gegenüber Seite 152
-- **D41 vom Berge südlich des Suru. Telephotographie** — gegenüber Seite 156
-- **Sonnenlicht und Schatten zur Mittagszeit** — gegenüber Seite 160
+- [Auf dem Gipfel des Mount Nieve Penitente, 19.080 Fuß; D41 zwei Meilen dahinter.](ch009.xhtml#b136) — gegenüber Seite 136
+- [Vogelperspektive auf den Nordwest-Nala vom Gipfel des Mount Nieve Penitente.](ch009.xhtml#b136a) — gegenüber Seite 136
+- [Panorama vom Gipfel des Mount Nieve Penitente: Z1, Nun oder Ser, Barmal-Kamm, D41.](ch010.xhtml#b138) — gegenüber Seite 138
+- [D41 vom Barmal La aus.](ch010.xhtml#b140) — gegenüber Seite 140
+- [Auf dem Gipfel des D41, 20.571 Fuß.](ch010.xhtml#b142) — gegenüber Seite 142
+- [Blick den Barmal-Gletscher hinab aus 19.500 Fuß Höhe am D41.](ch010.xhtml#b144) — gegenüber Seite 144
+- [Panorama nach Osten vom Gipfel des D41. Der Nun Kun.](ch010.xhtml#b146) — gegenüber Seite 146
+- [Blick nach Süden von der Schulter des B10 auf den Bhot-Kol-Seitenarm und seine Südwand.](ch010.xhtml#b148) — gegenüber Seite 148
+- [Abstieg vom Barmal La zum Barmal-Gletscher.](ch010.xhtml#b150) — gegenüber Seite 150
+- [Sentik La vom Sentik-Gletscher aus.](ch010.xhtml#b152) — gegenüber Seite 152
+- [D41 vom Berge südlich des Suru. Telephotographie.](ch010.xhtml#b156) — gegenüber Seite 156
+- [Sonnenlicht und Schatten zur Mittagszeit](ch010.xhtml#b160) — gegenüber Seite 160
 - **Parallele Längsrippen in Firnfeldern an der Bergflanke** — gegenüber Seite 164
 - **Rippen auf dem Firn des oberen Teiles des Hispar-Gletschers, mit den Neigungen zusammenfallend** — gegenüber Seite 164
 - **Flachköpfige Penitente-Zacke auf einem Lawinenbett** — gegenüber Seite 166
@@ -87,8 +85,6 @@
 - **Firn-Penitente mit dünner Schuttdecke auf dem Jutmaru-Gletscher** — gegenüber Seite 180
 - **Gletschertisch von ungewöhnlicher Größe auf dem Biafo-Gletscher** — gegenüber Seite 182
 - **Penitente-Zacke vom Typ des Gletschertisches; der Felskopf liegt auf ihrer Seite** — gegenüber Seite 184
-
-
 - **Gletschertafel – eine Varietät der Penitente-Zacken. Felskopf auf dem Gletscher zur Linken** — gegenüber Seite 186
 - **Penitente-Zacken unter einem großen Granitblock** — gegenüber Seite 186
 - **Dicker Schutt; schlammbedeckte Firn-Penitente, Biafo-Gletscher** — gegenüber Seite 188

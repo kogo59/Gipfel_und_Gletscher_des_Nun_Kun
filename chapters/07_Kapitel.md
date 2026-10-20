@@ -243,7 +243,7 @@ mächtige Endmoräne rasch durch Ablagerung des von ihrer Oberfläche
 herabgeführten Trümmermaterials.
 
 :::: {.wrap-100 .caption .align-center  }
-![Zunge des Z1-Gletschers mit horizontaler Schichtung und senkrechten Spalten.](Nun_Kun_118.jpg "»Zunge des Z1-Gletschers mit horizontaler Schichtung und senkrechten Spalten."){#b118}
+![Zunge des Z1-Gletschers mit horizontaler Schichtung und senkrechten Spalten.](Nun_Kun_118.jpg "Zunge des Z1-Gletschers mit horizontaler Schichtung und senkrechten Spalten."){#b118}
 ::::
 
 Das gerundete Ende des Z1-Gletschers bietet, obgleich stark verfärbt und von
