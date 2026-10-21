@@ -30,8 +30,8 @@
 - [The White Needle, 21.800 Fuß, über dem White-Needle-Lager aufragend](ch006.xhtml#b062a) — gegenüber Seite 62
 - [White-Needle-Lager, 19.900 Fuß, Blick nach Osten; Felsgipfel im Hintergrunde, 1½ Meilen entfernt](ch006.xhtml#b064)  — gegenüber Seite 64
 - [White-Needle-Lager am Fuße der Eiswand, Blick nach Westen](ch006.xhtml#b064a)  — gegenüber Seite 64
-- [Camp Italia, 20.632 Fuß, auf dem Nun-Kun-Plateau; Pinnacle Peak links im Hintergrunde.](ch006.xhtml#b66) — gegenüber Seite 66
-- [Camp Italia, 20.632 Fuß, Blick nach Südosten.](ch006.xhtml#b68) — gegenüber Seite 68
+- [Camp Italia, 20.632 Fuß, auf dem Nun-Kun-Plateau; Pinnacle Peak links im Hintergrunde.](ch006.xhtml#b066) — gegenüber Seite 66
+- [Camp Italia, 20.632 Fuß, Blick nach Südosten.](ch006.xhtml#b068) — gegenüber Seite 68
 - [Ein Hang, der beim Aufstieg zum höchsten Nun-Kun-Gipfel vom Plateau aus hätte überwunden werden müssen.](ch006.xhtml#b068a) — gegenüber Seite 68
 - [Der höchste Nun-Kun-Gipfel, oder Ser, 23.447 Fuß, vom Mittelpunkte des Plateaus aus.](ch006.xhtml#b070)  — gegenüber Seite 70
 - [Aufstieg über einen steilen Hang.](ch007.xhtml#b072) — gegenüber Seite 72
@@ -73,26 +73,26 @@
 - [Sentik La vom Sentik-Gletscher aus.](ch010.xhtml#b152) — gegenüber Seite 152
 - [D41 vom Berge südlich des Suru. Telephotographie.](ch010.xhtml#b156) — gegenüber Seite 156
 - [Sonnenlicht und Schatten zur Mittagszeit](ch010.xhtml#b160) — gegenüber Seite 160
-- **Parallele Längsrippen in Firnfeldern an der Bergflanke** — gegenüber Seite 164
-- **Rippen auf dem Firn des oberen Teiles des Hispar-Gletschers, mit den Neigungen zusammenfallend** — gegenüber Seite 164
-- **Flachköpfige Penitente-Zacke auf einem Lawinenbett** — gegenüber Seite 166
-- **Firn-Penitente auf einem Lawinenbett** — gegenüber Seite 168
-- **Firn-Penitente in pyramidenförmiger Gestalt auf dem Bette einer gleitenden Lawine** — gegenüber Seite 170
-- **Gezackte Firn-Penitente auf dem Bette einer Weichschneelawine** — gegenüber Seite 172
-- **Firn-Penitentenfeld zwischen den Eisbrüchen des oberen Hispar** — gegenüber Seite 174
-- **Firn-Penitente vom Senkungstyp auf dem Jutmaru-Gletscher** — gegenüber Seite 176
-- **Vom Winde geformte Penitentes in 18.000 Fuß Höhe** — gegenüber Seite 178
-- **Firn-Penitente mit dünner Schuttdecke auf dem Jutmaru-Gletscher** — gegenüber Seite 180
-- **Gletschertisch von ungewöhnlicher Größe auf dem Biafo-Gletscher** — gegenüber Seite 182
-- **Penitente-Zacke vom Typ des Gletschertisches; der Felskopf liegt auf ihrer Seite** — gegenüber Seite 184
-- **Gletschertafel – eine Varietät der Penitente-Zacken. Felskopf auf dem Gletscher zur Linken** — gegenüber Seite 186
-- **Penitente-Zacken unter einem großen Granitblock** — gegenüber Seite 186
-- **Dicker Schutt; schlammbedeckte Firn-Penitente, Biafo-Gletscher** — gegenüber Seite 188
-- **Schlammbedeckte Penitentes in einer Gletscherfurche sowie auf Eishang und Eiskamm** — gegenüber Seite 190
-- **Schlammbedeckte Firn-Zacke auf dem Skoro-Gletscher** — gegenüber Seite 192
-- **Sandbedeckte, einzeln stehende Firn-Zacke, 30 Fuß hoch, auf dem Hispar-Gletscher** — gegenüber Seite 194
-- **Zusammengesetzte Firn-Penitente, Hispar-Gletscher** — gegenüber Seite 196
-- **Firn-Penitente vom Sérac-Typ** — gegenüber Seite 198
+- [Parallele Längsrippen in Firnfeldern an der Bergflanke.](ch011.xhtml#b164)  — gegenüber Seite 164
+- [Rippen auf dem Firn des oberen Teiles des Hispar-Gletschers, mit den Neigungen zusammenfallend.](ch011.xhtml#b164a)  — gegenüber Seite 164
+- [Flachköpfige Penitente-Zacke auf einem Lawinenbett.](ch011.xhtml#b166) — gegenüber Seite 166
+- [Firn-Penitente auf einem Lawinenbett.](ch011.xhtml#b168) — gegenüber Seite 168
+- [Firn-Penitente in pyramidenförmiger Gestalt auf dem Bette einer gleitenden Lawine.](ch011.xhtml#b170) — gegenüber Seite 170
+- [Gezackte Firn-Penitente auf dem Bette einer Weichschneelawine.](ch011.xhtml#b172)  — gegenüber Seite 172
+- [Firn-Penitentenfeld zwischen den Eisbrüchen des oberen Hispar.](ch011.xhtml#b174) — gegenüber Seite 174
+- [Firn-Penitente vom Senkungstyp auf dem Jutmaru-Gletscher.](ch011.xhtml#b176) — gegenüber Seite 176
+- [Vom Winde geformte Penitentes in 18.000 Fuß Höhe.](ch011.xhtml#b178) — gegenüber Seite 178
+- [Firn-Penitente mit dünner Schuttdecke auf dem Jutmaru-Gletscher.](ch011.xhtml#b180) — gegenüber Seite 180
+- [Gletschertisch von ungewöhnlicher Größe auf dem Biafo-Gletscher.](ch011.xhtml#b182) — gegenüber Seite 182
+- [Penitente-Zacke vom Typ des Gletschertisches; der Felskopf liegt auf ihrer Seite.](ch011.xhtml#b184) — gegenüber Seite 184
+- [Gletschertafel – eine Varietät der Penitente-Zacken. Felskopf auf dem Gletscher zur Linken.](ch011.xhtml#b186) — gegenüber Seite 186
+- [Penitente-Zacken unter einem großen Granitblock.](ch011.xhtml#b186a) — gegenüber Seite 186
+- [Dicker Schutt; schlammbedeckte Firn-Penitente, Biafo-Gletscher](ch011.xhtml#b188) — gegenüber Seite 188
+- [Schlammbedeckte Penitentes in einer Gletscherfurche sowie auf Eishang und Eiskamm.](ch011.xhtml#b190) — gegenüber Seite 190
+- [Schlammbedeckte Firn-Zacke auf dem Skoro-Gletscher](ch011.xhtml#b192) — gegenüber Seite 192
+- [Sandbedeckte, einzeln stehende Firn-Zacke, 30 Fuß hoch, auf dem Hispar-Gletscher.](ch011.xhtml#b194) — gegenüber Seite 194
+- [Zusammengesetzte Firn-Penitente, Hispar-Gletscher.](ch011.xhtml#b196) — gegenüber Seite 196
+- [Firn-Penitente vom Sérac-Typ](ch011.xhtml#b198)  — gegenüber Seite 198
 
 
 ***

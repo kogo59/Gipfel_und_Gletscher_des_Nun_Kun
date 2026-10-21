@@ -383,7 +383,7 @@ Wochen später, als der Schnee geschmolzen oder in Lawinen abgegangen war, wäre
 der Hang für einen Versuch zu gefährlich geworden.
 
 :::: {.wrap-100 .caption .align-center  }
-![White-Needle-Lager in 19.900 Fuß Höhe, Blick nach Osten. Der hohe Felsgipfel darüber ist 1½ Meilen entfernt. Rechts in der Ferne ein Gipfel des Zaskar.](Nun_Kun_064.jpg "White-Needle-Lager in 19.900 Fuß Höhe, Blick nach Osten. Der hohe Felsgipfel darüber ist 1½ Meilen entfernt. Rechts in der Ferne ein Gipfel des Zaskar."){#b062}
+![White-Needle-Lager in 19.900 Fuß Höhe, Blick nach Osten. Der hohe Felsgipfel darüber ist 1½ Meilen entfernt. Rechts in der Ferne ein Gipfel des Zaskar.](Nun_Kun_064.jpg "White-Needle-Lager in 19.900 Fuß Höhe, Blick nach Osten. Der hohe Felsgipfel darüber ist 1½ Meilen entfernt. Rechts in der Ferne ein Gipfel des Zaskar."){#b064}
 ::::
 
 :::: {.wrap-70 .caption .align-center  }
@@ -471,7 +471,7 @@ Brennstoff auf einen jener großen Gipfel hinauftragen und dort ein Feuer
 entzünden könnte.
 
 :::: {.wrap-100 .caption .align-center  }
-![Camp Italia, 20.632 Fuß, Blick nach Südosten.](Nun_Kun_068.jpg "Camp Italia, 20.632 Fuß, Blick nach Südosten."){#b062}
+![Camp Italia, 20.632 Fuß, Blick nach Südosten.](Nun_Kun_068.jpg "Camp Italia, 20.632 Fuß, Blick nach Südosten."){#b068}
 ::::
 
 :::: {.wrap-100 .caption .align-center  }
